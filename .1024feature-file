@@ -3,3 +3,4 @@ fileChangeLogs:
   - index.js
   - bs-config.js
   - '.1024'
+  - .gitignore
